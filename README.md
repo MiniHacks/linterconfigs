@@ -21,5 +21,5 @@ curl -OL https://raw.githubusercontent.com/MiniHacks/linterconfigs/main/nextjs/.
 
 curl -OL https://raw.githubusercontent.com/MiniHacks/linterconfigs/main/nextjs/tsconfig.json
 
-curl -OL https://raw.githubusercontent.com/MiniHacks/linterconfigs/main/nextjs/.tsconfig.eslint.json
+curl -OL https://raw.githubusercontent.com/MiniHacks/linterconfigs/main/nextjs/tsconfig.eslint.json
 ```
