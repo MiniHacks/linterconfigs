@@ -9,7 +9,7 @@ We're collecting our eslint configs in one place. This allows us to use the same
 Install dependencies:
 
 ```bash
-yarn add -D @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint eslint-config-airbnb eslint-config-airbnb-typescript eslint-config-next eslint-config-prettier eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-only-warn eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks prettier 
+yarn add -D typescript @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint eslint-config-airbnb eslint-config-airbnb-typescript eslint-config-next eslint-config-prettier eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-only-warn eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks prettier 
 ```
 
 Download the files from the `nextjs` folder in this repo, and place them in the root of your project.
